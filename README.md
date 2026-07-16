@@ -11,6 +11,7 @@ the "Taiwan Miracle" of the 1960s–1990s.
 
 ## Dashboard Preview
 ![Kaldor Taiwan Dashboard](kaldor_taiwan_dashboard.PNG)
+
 > 📥 **Download the full Excel file** to explore them charts, 
 > trend projections, and raw data calculations:
 > [Kaldor_Taiwan_Dashboard.xlsx](Kaldor_Taiwan_Dashboard.xlsx)
