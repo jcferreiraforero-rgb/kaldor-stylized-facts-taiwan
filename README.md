@@ -98,5 +98,3 @@ during the 1960s–1990s.
 Juan Ferreira — Data Analyst  
 [LinkedIn](https://www.linkedin.com/in/juan-ferreira-110106-forero/) | [GitHub](https://github.com/jcferreiraforero-rgb)
 
-
-Want me to adjust anything?
