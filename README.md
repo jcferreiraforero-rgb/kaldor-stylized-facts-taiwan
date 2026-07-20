@@ -38,7 +38,6 @@ the "Taiwan Miracle" of the 1960s–1990s.
 - **Trend lines:** Manually constructed using LN() to extract average growth rates, then applying the compound growth formula `Base × (1 + growth rate)^t` to project the trend line across the full time series
 - **Projections:** Same compound growth formula extrapolated to 2050
 - **Visualization:** Dynamic multi-series charts with historical and projected periods
-- **Data organization:** Structured tables and dropdown lists for clean and dynamic data management
 
 ## Methodology
 
