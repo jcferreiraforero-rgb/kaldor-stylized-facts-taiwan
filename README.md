@@ -26,6 +26,20 @@ the "Taiwan Miracle" of the 1960s–1990s.
 - Microsoft Excel (data processing, chart building, trend projections)
 - Penn World Tables v11.0 (primary data source)
 
+## Technical Skills Demonstrated
+- **Data extraction:** XLOOKUP combined with dropdown lists (data validation) to dynamically pull Taiwan-specific data from the full Penn World Tables dataset
+- **Variable construction:** Custom formulas to derive all 6 Kaldor variables from raw PWT columns:
+  - `Y/L = rgdpe / emp`
+  - `K/L = rnna / emp`
+  - `K/Y = rnna / rgdpe`
+  - `R = (1-labsh) × rgdpe / rnna`
+  - `w = labsh × rgdpe / emp`
+- **Log-linearization:** LN() applied to variables to calculate average growth rates and linearize exponential trends
+- **Trend lines:** Manually constructed using LN() to extract average growth rates, then applying the compound growth formula `Base × (1 + growth rate)^t` to project the trend line across the full time series
+- **Projections:** Same compound growth formula extrapolated to 2050
+- **Visualization:** Dynamic multi-series charts with historical and projected periods
+- **Data organization:** Structured tables and dropdown lists for clean and dynamic data management
+
 ## Methodology
 
 | Variable | Formula | Source |
